@@ -1,16 +1,20 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Asp.netCorePortfolio.Models;
+using EmailService;
 
 namespace Asp.netCorePortfolio.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    
+    private readonly IEmailSender _emailService;
+    private readonly EmailConfiguration _emailConfig;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(IEmailSender emailService, EmailConfiguration emailConfig)
     {
-        _logger = logger;
+        _emailService = emailService;
+        _emailConfig = emailConfig;
     }
 
     public IActionResult Index()

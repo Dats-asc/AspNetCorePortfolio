@@ -1,0 +1,13 @@
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/bin/Debug/net6.0/EmailService.deps.json
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/bin/Debug/net6.0/EmailService.dll
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/bin/Debug/net6.0/ref/EmailService.dll
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/bin/Debug/net6.0/EmailService.pdb
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/obj/Debug/net6.0/EmailService.GlobalUsings.g.cs
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/obj/Debug/net6.0/EmailService.csproj.AssemblyReference.cache
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/obj/Debug/net6.0/EmailService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/obj/Debug/net6.0/EmailService.AssemblyInfoInputs.cache
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/obj/Debug/net6.0/EmailService.AssemblyInfo.cs
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/obj/Debug/net6.0/EmailService.csproj.CoreCompileInputs.cache
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/obj/Debug/net6.0/EmailService.dll
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/obj/Debug/net6.0/ref/EmailService.dll
+/Users/rustamhajrullin/RiderProjects/Asp.netCorePortfolio/EmailService/obj/Debug/net6.0/EmailService.pdb

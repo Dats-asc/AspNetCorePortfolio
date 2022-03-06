@@ -116,7 +116,7 @@ hr {
     display: block;
     position: relative;
     overflow: hidden;
-    background: transparent url(../img/loader.gif) no-repeat center;
+    background: transparent url(../images/loader.gif) no-repeat center;
 }
 
 .zoomOverlay {
@@ -126,7 +126,7 @@ hr {
     bottom: 0;
     right: 0;
     display: none;
-    background-image: url(../img/zoom.png);
+    background-image: url(../images/zoom.png);
     background-repeat: no-repeat;
     background-position: center;
 }
