@@ -1,4 +1,6 @@
+using Asp.netCorePortfolio;
 using EmailService;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +13,9 @@ var emailConfig = builder.Configuration
 builder.Services.AddSingleton(emailConfig);
 
 builder.Services.AddScoped<IEmailSender, EmailSender>();
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 
